@@ -3,8 +3,6 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>Chrystal Copeland PWP</title>
-		<link rel="stylesheet" href="./style.css"/>
-		<script src="./script.js"></script>
 	</head>
 	<body>
 		<H1>Chrystal Copeland </H1>
@@ -25,13 +23,11 @@
 		<h2>
 			Goal
 		</h2>
-		<p>
 			<ul>
 			<li>My goal is to attract freelance clients.</li>
 			<li>I will be able to use this site to serve as a gallery to showcase and promote my work.</li>
 			<li>I also want to increase the reach of my social media presence.</li>
 		</ul>
-		</p>
 		<h2>
 			Persona
 		</h2>
