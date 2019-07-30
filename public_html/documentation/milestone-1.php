@@ -53,4 +53,57 @@
 	</body>
 </html>
 
+-- wellness PWP --
+
+
+<h2>Wellness PWP</h2>
+		<h2>
+			Purpose
+		</h2>
+		<p>
+			I would like to use my pwp to develop contacts and gain clients in the health and wellness and birthing industry. I have already begun
+			building websites for massage therapists and own a resource directory blog, so I would like to bridge the health and wellness
+			industry to technology.
+		</p>
+		<h2>
+			Audience
+		</h2>
+		<p>
+			This will be a website geared toward getting web development and design clients in the health and wellness industry. It will have
+			a natural soothing look and also provide statistics on how a website can help grow a client base when done well.
+		</p>
+		<h2>
+			Goal
+		</h2>
+		<ul>
+			<li>My goal is to attract freelance clients.</li>
+			<li>I will be able to use this site to serve as a gallery to showcase and promote my work.</li>
+			<li>I also want to increase the reach of my social media presence.</li>
+		</ul>
+		<h2>
+			Persona
+		</h2>
+		<p>Name: Claire</p>
+		<p>Age: 35</p>
+		<p>Occupation: Yoga instructor and wellness studio owner. Wants to develop her brand and website to include alternative therapies
+			such as massage and acupunture in her wellness studio.
+		</p>
+		<p>Claire has been DIY-ing her website for a while, but she is finding that if she can let someone else manage the website,
+		she can focus on growing her business. Her wordpress website is clunky and is in need of an overhaul, and possibly some content
+		revisions. She is currently working towards expanding her offerings at her wellness studio to include acupucnture and massage
+		therapy. These are services she knows her clients get at other places, and wants to be able to provide these services in her
+		business. </p>
+		<p>
+			Claire's biggest frustration is managing the online presence of her website. She loves using instagram, but wants to develop
+			a better approach to her online presence- ulimately funneling her social media content to her website. She spends more time teaching classes,
+			developing classes and developing talent and so her website has been suffering- her tech savvy customers are beginning
+			to notice. Her class sign up process is not user friendly, and she thinks she may be missing out on some sales because
+			of her confusing registration process. She is looking to streamline things, but doesn't have the time anymore to figure
+			"all this website stuff out".
+		</p>
+
+
+	</body>
+</html>
+
 
