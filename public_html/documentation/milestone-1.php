@@ -85,8 +85,11 @@
 		</h2>
 		<p>Name: Claire</p>
 		<p>Age: 35</p>
-		<p>Occupation: Yoga instructor and wellness studio owner. Wants to develop her brand and website to include alternative therapies
-			such as massage and acupunture in her wellness studio.
+<img src="emily-sea-coiWR0gT8Cw-unsplash.jpg" alt="Claire loves yoga" width="600" height="600" />
+
+		<p>
+			Occupation: Yoga instructor and wellness studio owner. Wants to develop her brand and website to include alternative therapies
+			such as massage and acupuncture in her wellness studio.
 		</p>
 		<p>Claire has been DIY-ing her website for a while, but she is finding that if she can let someone else manage the website,
 		she can focus on growing her business. Her wordpress website is clunky and is in need of an overhaul, and possibly some content
