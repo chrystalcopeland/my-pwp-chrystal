@@ -10,41 +10,37 @@
 	Welcome
 </h2>
 <p>
-	Primarily graphic design focused- introducing the name of the business "Forever and a Dahlia Design"- wanting to spend
-	most of my time developing this website and learning to style it with CSS. I am hoping to use minimal text to highlight design.
+A graphic design focused header with logo and my name.
 </p>
 <h2>
 	About
 </h2>
 <p>
-	a short paragraph about forever and a dahlia- creating and designing and developing websites
+	Introducing myself and what I have been learning in the deep dive coding bootcamp with a list
+	of skills I have begun to develop as part of the program. I also want to find a way to connect
+	what I have been learning to how it can benefit the wellness and alternative care industry.
 </p>
 <h2>
 	Portfolio
 </h2>
 <p>
-	Pictures with links to some of my best websites indicated by the logo I created for
-	the website, will include my personal website and capstone project.
+	Links to my capstone project and the other wellness websites I have been working with.
 </p>
 <h2>
 	Contact
 </h2>
-<h2>
-	An additional section with more text- possibly about what clients can expect about the design process, or a bit of text that will
-	market directly to my persona- wanting to attract design oriented and creative individuals.
-</h2>
 <p>
-	a contact box for clients to be able to reach me.
+	a contact box for clients and/or employers to be able to reach me.
 </p>
 
 
 <h2>
 	Mobile Wireframe
 </h2>
-<img src="wireframe-mobile.jpg" alt="Mobile Wireframe" />
+<img src="chrystal-copeland-mobile-2.jpg" alt="Mobile Wireframe" />
 
 <h2>
 	Desktop Wireframe
 </h2>
-<img src="wireframe-desktop.jpg" width="600", height="1205" alt="Desktop Wireframe" />
+<img src="chrystal-copeland-desktop.jpg" width="600", height="1205" alt="Desktop Wireframe" />
 
