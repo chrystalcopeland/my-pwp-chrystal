@@ -85,7 +85,7 @@
 		</h2>
 		<p>Name: Claire</p>
 		<p>Age: 35</p>
-<img src="emily-sea-coiWR0gT8Cw-unsplash.jpg" alt="Claire loves yoga" width="600" height="600" />
+<img src="images/emily-sea-coiWR0gT8Cw-unsplash.jpg" alt="Claire loves yoga" width="600" height="600" />
 
 		<p>
 			Occupation: Yoga instructor and wellness studio owner. Wants to develop her brand and website to include alternative therapies
