@@ -58,35 +58,35 @@
 
 		<!--Nav bar-->
 		<header>
-				<nav class="navbar navbar-expand-md navbar-light bg-light d-flex justify-content-end">
-					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
-							  aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-						<span class="navbar-toggler-icon"></span>
-					</button>
-					<h2 class="navbar-brand brand-name">
-						<a href="index.html"><img class="img-responsive2"
-														  src="documentation/images/dahlia-grey.png" height="50 px" width="50 px"></a>
-					</h2>
-					<div class="collapse navbar-collapse" id="navbarNav">
-						<ul class="navbar-nav">
-							<li class="nav-item active">
-								<a class="nav-link" href="#about">About</a>
-							</li>
-							<!--
-							<li class="nav-item active">
-								<a class="nav-link" href="#text-link-here">Text</a>
-							</li>
-							-->
-							<li class="nav-item active">
-								<a class="nav-link" href="#portfolio">Portfolio</a>
-							</li>
-							<li class="nav-item active">
-								<a class="nav-link" href="#contact-section">Contact</a>
-							</li>
-						</ul>
-					</div>
+			<nav class="navbar navbar-expand-md navbar-light bg-light d-flex justify-content-end">
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+						  aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<h2 class="navbar-brand brand-name">
+					<a href="index.html"><img class="img-responsive2"
+													  src="documentation/images/dahlia-grey.png" height="50 px" width="50 px"></a>
+				</h2>
+				<div class="collapse navbar-collapse" id="navbarNav">
+					<ul class="navbar-nav">
+						<li class="nav-item active">
+							<a class="nav-link" href="#about">About</a>
+						</li>
+						<!--
+						<li class="nav-item active">
+							<a class="nav-link" href="#text-link-here">Text</a>
+						</li>
+						-->
+						<li class="nav-item active">
+							<a class="nav-link" href="#portfolio">Portfolio</a>
+						</li>
+						<li class="nav-item active">
+							<a class="nav-link" href="#contact-section">Contact</a>
+						</li>
+					</ul>
+				</div>
 
-				</nav>
+			</nav>
 		</header>
 		<!--Hero image and welcome message-->
 		<div class="container-fluid backgroundimg">
@@ -192,7 +192,7 @@
 			</div>
 		</section>
 		<!-- Contact -->
-		<secgtion class="bg-secondary py-5">
+		<section class="bg-secondary py-5">
 			<div class="container" id="contact-section">
 				<div class="row ml-1">
 					<div class="column pt-5 mb-5 pb-5 col-12">
@@ -214,13 +214,13 @@
 					</div>
 					<div class="container" id="contact-section">
 						<div class="form-group">
-							<label for="exampleFormControlTextarea1">Message</label>
-							<textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+							<label for="Textarea1">Message</label>
+							<textarea class="form-control" id="Textarea1" rows="3"></textarea>
 						</div>
 						<button type="button" class="btn btn-outline-light">Submit</button>
-						</form>
+
 					</div>
-		</secgtion>
+		</section>
 		<!--Bootstrap sticky footer-->
 		<footer>
 			<div class="container-fluid">
