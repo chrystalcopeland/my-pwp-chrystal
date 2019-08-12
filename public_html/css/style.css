@@ -3,31 +3,24 @@ body, html {
 	padding: 0;
 }
 
-.backgroundimg {
-	background-image:url("../images/office-pink.jpg");
+.backgroundimg {;
+	background-image: url("/Users/chrystal/Desktop/bootcamp/git/my-pwp-chrystal/public_html/documentation/images/background-dahlia.jpg");
 	background-size: cover;
 	background-position: top right;
 	background-repeat: no-repeat;
-	height: 100vh;
-}
+	height: 100vh;}
 
-@media only screen and (min-width: 768px) {
-	.backgroundimg {
-		background-position: bottom center;
-	}
-}
-
-header {
-	text-align: right;
-}
-
-#testimonials-header {
+/**********
+About
+*************/
+#about {
 	color: white;
-	text-align: center;
 }
 
+/***********
+Footer
+************/
 #contact-section {
-	background-color: #343A42;
 	color: white;
 }
 
