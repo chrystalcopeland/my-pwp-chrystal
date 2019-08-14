@@ -197,7 +197,7 @@ Do not copy and paste this one.
 										<div class="col-lg-6 offset-lg-3">
 											<h2 class="text-center">Contact Chrystal</h2>
 											<!--Begin Form -->
-											<form id="contact-form" action="php/mailer.php" method="post">
+											<form id="contact-form" action="../php/mailer.php" method="post">
 												<div class="form-group">
 													<label for="contactChrystalName">Name <span class="text-danger">*</span></label>
 													<div class="input-group">
