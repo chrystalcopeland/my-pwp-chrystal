@@ -45,10 +45,10 @@
 		<h2>
 			Mobile Wireframe
 		</h2>
-		<img src="images/chrystal-copeland-mobile-2.jpg" alt="Mobile Wireframe"/>
+		<img src="../images/chrystal-copeland-mobile-2.jpg" alt="Mobile Wireframe"/>
 
 		<h2>
 			Desktop Wireframe
 		</h2>
-		<img src="images/chrystal-copeland-desktop.jpg" width="600" , height="1205" alt="Desktop Wireframe"/>
+		<img src="../images/chrystal-copeland-desktop.jpg" width="600" , height="1205" alt="Desktop Wireframe"/>
 	</body>
