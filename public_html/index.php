@@ -194,10 +194,10 @@ Do not copy and paste this one.
 							<section class="py-5">
 								<div class="container">
 									<div class="row">
-										<div class="col-lg-4 offset-lg-4">
+										<div class="col-lg-6 offset-lg-3">
 											<h2 class="text-center">Contact Chrystal</h2>
 											<!--Begin Form -->
-											<form id="chrystals-form" action="php/mailer.php" method="post">
+											<form id="contact-form" action="php/mailer.php" method="post">
 												<div class="form-group">
 													<label for="contactChrystalName">Name <span class="text-danger">*</span></label>
 													<div class="input-group">
@@ -206,7 +206,7 @@ Do not copy and paste this one.
 																<i class="fa fa-user" aria-hidden="true"></i>
 															</div>
 														</div>
-														<input type="text" class="form-control" id="contactLucy" name="contactLucy" placeholder="Name">
+														<input type="text" class="form-control" id="contactChrystal" name="contactChrystal" placeholder="Name">
 													</div>
 												</div>
 												<div class="form-group">
