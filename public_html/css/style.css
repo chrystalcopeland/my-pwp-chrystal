@@ -1,4 +1,6 @@
 body, html {
+	background-image: url("../images/background-dahlia.jpg");
+	background-size: cover;
 	margin: 0;
 	padding: 0;
 }
@@ -11,6 +13,10 @@ Font
 	color: darkturquoise !important;
 	font-size: 2.5rem;
 }
+
+.h1 font {
+	font-family: Sacramento, cursive;
+}
 @media only screen and (min-width: 970px) {
 	a.navbar-brand {
 		font-size: 4rem;
@@ -18,19 +24,19 @@ Font
 }
 
 .backgroundimg {;
-	background-image: url("../images/background-dahlia.jpg");
 	background-size: cover;
-	background-position: top right;
+	background-position: center;
 	background-repeat: no-repeat;
 	height: 100vh;}
 
 /**********
 About
 *************/
-#about {
+/*#about {
 	color: white;
-	font-family: Sacramento;
 }
+
+
 
 /***********
 Footer
