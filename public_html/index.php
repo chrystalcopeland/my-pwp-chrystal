@@ -15,6 +15,7 @@
 
 		<!-- Google Font -->
 		<link href="https://fonts.googleapis.com/css?family=Sacramento&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Roboto:300&display=swap" rel="stylesheet">
 
 		<!-- FontAwesome -->
 		<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
@@ -84,36 +85,23 @@
 
 			</nav>
 			<!--Hero image and welcome message-->
-			<div class="container-fluid backgroundimg">
-				<div class="row-fluid">
-					<div class="column">
-						<div class="container pt-5">
-							<h1 class="display-3 text-center font-weight-bold">Chrystal Copeland</h1>
-							<p class="lead text-center">Web Development and Marketing</p>
+
+			<section>
+				<div class="container-fluid backgroundimg">
+					<div class="row-fluid" id="header">
+						<div class="column">
+							<div class="container pt-5">
+								<h1 class="display-3 text-center font-weight-bold">Chrystal Copeland</h1>
+								<p class="lead text-center" id="subtext">Web Development and Graphic Design for Wellness
+									Businesses</p>
+							</div>
 						</div>
 					</div>
 				</div>
-			</div>
 			</section>
 
-
-			<!-- Jumbotron -->
-			<!--
-			<section class="py-5">
-				<div class="container">
-					<div class="jumbotron">
-						<img src="documentation/images/background-dahlia.jpg" class="img-fluid" alt="Responsive image">
-						<h1 class="display-4">Chrystal Copeland</h1>
-						<p class="lead">Web Development and Marketing</p>
-						<hr class="my-4">
-						<p>Custom Websites and Marketing for Wellness and Natural Lifestyle Business Solutions</p>
-						<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
-					</div>
-				</div>
-			</section>
-			-->
 			<!--About Section-->
-			<section class="bg-secondary- py-5">
+			<section class="py-5">
 				<div class="container" id="about">
 					<h2>About</h2>
 					<div class="row">
@@ -152,7 +140,7 @@
 						<!-- Tree of Life Massage -->
 						<div class="col-lg-3 col-sm-6">
 							<img class="img-fluid rounded d-block mx-auto mb-4"
-								  src="images/tree-of-life.jpg" , alt="Tree of Life Massage">
+								  src="images/tree-of-life-logo.jpg" , alt="Tree of Life Massage">
 							<div class="card mb-4">
 								<div class="card-body">
 									<h5 class="card-title">Tree of Life Massage</h5>
@@ -189,12 +177,12 @@
 
 
 			<!-- Contact Form Container -->
-			<section class="bg-secondary py-5">
+			<section class="container-fluid backgroundimg">
 				<div class="container" id="contact-section">
 					<div class="column pt-5 mb-5 pb-5 col-12">
 						<section class="py-5">
 							<div class="col-lg-6 offset-lg-3">
-								<h2 class="text-center">Contact Chrystal</h2>
+								<h2 class="text-center" id="contact-chrystal">Contact Chrystal</h2>
 
 								<!--Begin Form -->
 								<form id="chrystal-demo-form" action="../php/index.php" method="post">

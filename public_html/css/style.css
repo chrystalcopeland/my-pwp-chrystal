@@ -1,22 +1,35 @@
 body, html {
-	background-image: url("../images/background-dahlia.jpg");
-	background-size: cover;
+	background-image: url("../images/pink-watercolor.png");
+	background-size: 1200px;
+	background-repeat: no-repeat;
+	background-position: top, center;
 	margin: 0;
 	padding: 0;
+	font-family: Roboto-thin, SansSerif;
 }
 
+h2 {
+	font-family: Sacramento;
+	font-size: 40pt;
+	color: dimgrey;
+}
+
+h5 {
+	font-size: 13pt;
+}
 /************
 Font
  ***********/
-.class content {
-	font-family: 'Sacramento', cursive;
-	color: darkturquoise !important;
-	font-size: 2.5rem;
-}
-
-.h1 font {
+#header {
+	color: white;
 	font-family: Sacramento, cursive;
 }
+#subtext {
+	font-family: Roboto-thin, SansSerif;
+}
+
+
+
 @media only screen and (min-width: 970px) {
 	a.navbar-brand {
 		font-size: 4rem;
@@ -32,19 +45,33 @@ Font
 /**********
 About
 *************/
-/*#about {
-	color: white;
+#about {
+	margin-bottom: 20px;
+	padding-top: 20px;
+	padding-bottom: 10px;
 }
 
+
+/*********
+Portfolio
+ *********/
+
+/***********
+Contact
+************/
+#contact-section {
+	background-image: url("../images/flip-watercolor-opaque.jpg");
+	background-size: 1200px;
+	color: white;
+}
+#contact-chrystal {
+	color: white;
+}
 
 
 /***********
 Footer
 ************/
-#contact-section {
-	color: white;
-}
-
 footer a,
 footer a:link,
 footer a:visited,
@@ -53,7 +80,7 @@ footer a:active {
 }
 
 footer a:hover {
-	color: pink;
+	color: hotpink;
 	-webkit-transition: all 500ms ease-in-out;
 	-moz-transition: all 500ms ease-in-out;
 	-ms-transition: all 500ms ease-in-out;
