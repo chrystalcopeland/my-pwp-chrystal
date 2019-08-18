@@ -85,20 +85,35 @@
 
 			</nav>
 			<!--Hero image and welcome message-->
-
 			<section>
 				<div class="container-fluid backgroundimg">
 					<div class="row-fluid" id="header">
 						<div class="column">
 							<div class="container pt-5">
 								<h1 class="display-3 text-center font-weight-bold">Chrystal Copeland</h1>
-								<p class="lead text-center" id="subtext">Web Development and Graphic Design for Wellness
-									Businesses</p>
+								<p class="lead text-center" id="subtext">Making the web a healthier place to be, one website at
+									a time.</p>
 							</div>
+						</div>
+				<div class="container" id="about"
+				<div class="row-fluid">
+					<div class="container" id="wellness-businesses">
+						<div class="col-lg-3 col-sm-6">
+							<h2>Yoga</h2>
+						</div>
+						<div class="col-lg-3 col-sm-6">
+							<h2>Massage</h2>
+						</div>
+						<div class="col-lg-3 col-sm-6">
+							<h2>Fitness</h2>
+						</div>
+						<div class="col-lg-3 col-sm-6">
+							<h2>Chiropractic</h2>
 						</div>
 					</div>
 				</div>
 			</section>
+
 
 			<!--About Section-->
 			<section class="py-5">
@@ -110,9 +125,11 @@
 								  src="images/chrystal-copeland-headshot.jpg" alt="Chrystal Copeland">
 						</div>
 						<div class="col-sm-9">
-							<p class="lead">Cupcake ipsum dolor. Sit amet marshmallow topping cheesecake muffin. Halvah
+							<p class="lead">Cupcake ipsum dolor. Sit amet marshmallow topping cheesecake muffin.
+								Halvah
 								croissant
-								candy canes bonbon candy. Apple pie jelly beans topping carrot cake danish tart cake cheesecake.
+								candy canes bonbon candy. Apple pie jelly beans topping carrot cake danish tart cake
+								cheesecake.
 								Muffin danish chocolate soufflé pastry icing bonbon oat cake.
 								Powder cake jujubes oat cake. Lemon drops tootsie roll marshmallow halvah carrot cake.
 						</div>
@@ -128,11 +145,12 @@
 					<div class="row">
 						<div class="col-lg-3 col-sm-6">
 							<img class="img-fluid rounded d-block mx-auto mb-4"
-								  src="images/bike%20abq.png" alt="ABQ Bike Trails">
+								  src="images/bike-abq.png" alt="ABQ Bike Trails">
 							<div class="card mb-4">
 								<div class="card-body">
 									<h5 class="card-title">ABQ Bike Trails</h5>
-									<p class="card-text">Bike trails resource built from scratch in a collaborative effort using
+									<p class="card-text">Bike trails resource built from scratch in a collaborative effort
+										using
 										Agile programming in LAMP stack. </p>
 								</div>
 							</div>
@@ -144,7 +162,8 @@
 							<div class="card mb-4">
 								<div class="card-body">
 									<h5 class="card-title">Tree of Life Massage</h5>
-									<p class="card-text">Health and Wellness website for Tree of Life Massage using WIX.</p>
+									<p class="card-text">Health and Wellness website for Tree of Life Massage using
+										WIX.</p>
 								</div>
 							</div>
 						</div>
@@ -155,7 +174,8 @@
 							<div class="card mb-4">
 								<div class="card-body">
 									<h5 class="card-title">ABQpregnancy.com</h5>
-									<p class="card-text">Resource directory website built using Wordpress and Divi theme.</p>
+									<p class="card-text">Resource directory website built using Wordpress and Divi
+										theme.</p>
 								</div>
 							</div>
 						</div>
@@ -166,7 +186,8 @@
 							<div class="card mb-4">
 								<div class="card-body">
 									<h5 class="card-title">Youth Jazz Collborative</h5>
-									<p class="card-text">Rebranding and new website for small non-profit in New Mexico using
+									<p class="card-text">Rebranding and new website for small non-profit in New Mexico
+										using
 										Squarespace.</p>
 								</div>
 							</div>

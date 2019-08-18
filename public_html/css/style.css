@@ -26,6 +26,7 @@ Font
 }
 #subtext {
 	font-family: Roboto-thin, SansSerif;
+	font-size: 30px;
 }
 
 
@@ -41,6 +42,10 @@ Font
 	background-position: center;
 	background-repeat: no-repeat;
 	height: 100vh;}
+
+#wellness-businesses {
+	margin-top: 400px;
+}
 
 /**********
 About
