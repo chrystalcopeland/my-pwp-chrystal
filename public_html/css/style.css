@@ -29,6 +29,11 @@ Font
 	font-size: 30px;
 }
 
+.flex-container {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+}
 
 
 @media only screen and (min-width: 970px) {
@@ -44,6 +49,8 @@ Font
 	height: 100vh;}
 
 #wellness-businesses {
+	font-size: 40px;
+	margin-right: 60px;
 	margin-top: 400px;
 }
 

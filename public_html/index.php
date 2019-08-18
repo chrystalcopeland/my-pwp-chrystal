@@ -95,21 +95,14 @@
 									a time.</p>
 							</div>
 						</div>
-				<div class="container" id="about"
-				<div class="row-fluid">
-					<div class="container" id="wellness-businesses">
-						<div class="col-lg-3 col-sm-6">
-							<h2>Yoga</h2>
-						</div>
-						<div class="col-lg-3 col-sm-6">
-							<h2>Massage</h2>
-						</div>
-						<div class="col-lg-3 col-sm-6">
-							<h2>Fitness</h2>
-						</div>
-						<div class="col-lg-3 col-sm-6">
-							<h2>Chiropractic</h2>
-						</div>
+						<ul class="flex-container" id="wellness-businesses">
+							<ol class="flex-item">Yoga</ol>
+							<ol class="flex-item">Massage</ol>
+							<ol class="flex-item">Acupuncture</ol>
+							<ol class="flex-item">Chiropractic</ol>
+							<ol class="flex-item">Fitness</ol>
+							<ol class="flex-item">Nutrition</ol>
+						</ul>
 					</div>
 				</div>
 			</section>
