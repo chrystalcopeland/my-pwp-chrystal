@@ -51,15 +51,21 @@ Font
 #wellness-businesses {
 	font-size: 40px;
 	margin-right: 60px;
-	margin-top: 400px;
+	margin-top: 200px;
 }
-
+#wellness {
+	margin-top: 150px;
+}
+#floated {
+	float: left;
+	width: 550px;
+}
 /**********
 About
 *************/
 #about {
-	margin-bottom: 20px;
-	padding-top: 20px;
+	margin-bottom: px;
+	padding-top: px;
 	padding-bottom: 10px;
 }
 

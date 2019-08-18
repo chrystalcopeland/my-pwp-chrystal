@@ -91,8 +91,12 @@
 						<div class="column">
 							<div class="container pt-5">
 								<h1 class="display-3 text-center font-weight-bold">Chrystal Copeland</h1>
-								<p class="lead text-center" id="subtext">Making the internet a healthier place to be, one website at
+								<p class="lead text-center" id="subtext">Making the internet a healthier place to be, one
+									website at
 									a time.</p>
+							</div>
+							<div class="flex-container-1">
+								<img class="img-fluid d-block mx-auto" src="images/dahlia-white.png" height="200" width="200">
 							</div>
 						</div>
 						<ul class="flex-container-2" id="wellness-businesses">
@@ -106,30 +110,42 @@
 					</div>
 				</div>
 			</section>
-
-
-			<!--About Section-->
+			<!-- Wellness Clients-->
 			<section class="py-5">
-				<div class="container" id="about">
-					<h2>About</h2>
+				<div class="container" id="wellness">
+					<h2>What is Wellness?</h2>
 					<div class="row">
-						<div class="col-sm-3">
-							<img class="img-fluid d-block mx-auto"
-								  src="images/chrystal-copeland-headshot.jpg" alt="Chrystal Copeland">
-						</div>
-						<div class="col-sm-9">
-							<p class="lead">Cupcake ipsum dolor. Sit amet marshmallow topping cheesecake muffin.
-								Halvah
-								croissant
-								candy canes bonbon candy. Apple pie jelly beans topping carrot cake danish tart cake
-								cheesecake.
-								Muffin danish chocolate soufflé pastry icing bonbon oat cake.
-								Powder cake jujubes oat cake. Lemon drops tootsie roll marshmallow halvah carrot cake.
+						<div class="col">
+							<p>
+								The health and wellness industry is currently worth an estimated $4.2 Trillion with growth twice
+								as fast as the global economy. The wellness economy is driven by holistic lifestyles that
+								incorporate activities like yoga, massage therapy, acupuncture, chiropractic, fitness and
+								nutrition. It also includes a broader spectrum of services, products and travel such as wellness
+								real-estate, beauty and anti-aging products, destination wellness retreats, and workplace
+								wellness.
+							</p>
+							<div id="floated">
+								<img src="images/globalwellnesseconomy2017.png" height="400px">
+							</div>
+							<p>
+								With an ever growing demand and increasing diversity in products, services, and tourism within
+								the wellness industry; it is essential that web developers, marketers and creators who are
+								experienced in the wellness field cultivate relationships with the businesses and people who are
+								striving the make a difference in the lives of those around them. With the right leadership and
+								excellent digital strategies, a small business can be poised to become the next tourist
+								destination or become the local expert in their industry.
+							</p>
+							<p>
+								Additionally, with a worth of $4.2 trillion dollars, the wellness industry is proving to be a
+								market worth targeting for marketing and web development professionals. The addition of health
+								and wellness experts who are also tech savy can speak the language of both the "wellness chic
+								and the development geek" easily navigating both worlds to lead effective
+								communication and happy clients with happy profits.
+							</p>
 						</div>
 					</div>
 				</div>
 			</section>
-			</div>
 			<!-- portfolio images -->
 			<!-- ABQ Bikes -->
 			<section class="py-5">
@@ -188,8 +204,28 @@
 					</div>
 				</div>
 			</section>
-
-
+			<!--About Section-->
+			<section class="py-5">
+				<div class="container" id="about">
+					<h2>About</h2>
+					<div class="row">
+						<div class="col-sm-3">
+							<img class="img-fluid d-block mx-auto"
+								  src="images/chrystal-copeland-headshot.jpg" alt="Chrystal Copeland">
+						</div>
+						<div class="col-sm-9">
+							<p class="lead">Cupcake ipsum dolor. Sit amet marshmallow topping cheesecake muffin.
+								Halvah
+								croissant
+								candy canes bonbon candy. Apple pie jelly beans topping carrot cake danish tart cake
+								cheesecake.
+								Muffin danish chocolate soufflé pastry icing bonbon oat cake.
+								Powder cake jujubes oat cake. Lemon drops tootsie roll marshmallow halvah carrot cake.
+						</div>
+					</div>
+				</div>
+			</section>
+			</div>
 			<!-- Contact Form Container -->
 			<section class="container-fluid backgroundimg">
 				<div class="container" id="contact-section">
