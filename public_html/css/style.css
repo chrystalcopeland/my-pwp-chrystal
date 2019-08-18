@@ -29,7 +29,7 @@ Font
 	font-size: 30px;
 }
 
-.flex-container {
+.flex-container-2 {
 	display: flex;
 	flex-direction: row;
 	justify-content: space-evenly;

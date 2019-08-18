@@ -91,11 +91,11 @@
 						<div class="column">
 							<div class="container pt-5">
 								<h1 class="display-3 text-center font-weight-bold">Chrystal Copeland</h1>
-								<p class="lead text-center" id="subtext">Making the web a healthier place to be, one website at
+								<p class="lead text-center" id="subtext">Making the internet a healthier place to be, one website at
 									a time.</p>
 							</div>
 						</div>
-						<ul class="flex-container" id="wellness-businesses">
+						<ul class="flex-container-2" id="wellness-businesses">
 							<ol class="flex-item">Yoga</ol>
 							<ol class="flex-item">Massage</ol>
 							<ol class="flex-item">Acupuncture</ol>
