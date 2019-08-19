@@ -67,13 +67,11 @@
 				<div class="collapse navbar-collapse" id="navbarNav">
 					<ul class="navbar-nav">
 						<li class="nav-item active">
+							<a class="nav-link" href="#wellness">Wellness</a>
+						</li>
+						<li class="nav-item active">
 							<a class="nav-link" href="#about">About</a>
 						</li>
-						<!--
-						<li class="nav-item active">
-							<a class="nav-link" href="#text-link-here">Text</a>
-						</li>
-						-->
 						<li class="nav-item active">
 							<a class="nav-link" href="#portfolio">Portfolio</a>
 						</li>
@@ -123,7 +121,7 @@
 								include activities like yoga, massage therapy, acupuncture, chiropractic, fitness and
 								nutrition into their lifestyles. It also includes a broader spectrum of services, products and
 								travel such as wellness
-								real-estate, beauty and anti-aging products, destination wellness retreats, travel, and
+								real-estate, beauty and anti-aging products, destination wellness retreats, and
 								workplace
 								wellness.
 							</p>
@@ -133,8 +131,8 @@
 							<p>
 								With an ever growing demand and increasing diversity in products, services, and tourism within
 								the wellness industry; it is essential that web developers, marketers and creators who are
-								experienced in the wellness field cultivate relationships with the businesses and people who are
-								striving the make a difference in the lives of those around them. With the right leadership and
+								experienced in the wellness field cultivate relationships with the businesses and people in the
+								wellness field. With the right leadership and
 								excellent digital strategies, a small business can be poised to become the next tourist
 								destination or become the local expert in their industry.
 							</p>
