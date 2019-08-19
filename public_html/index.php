@@ -143,13 +143,14 @@
 								market worth targeting. For marketing and web development companies this means adding
 								health and wellness experts to development teams who are also tech savy.
 								<aside class="pquote">
-									<blockquote>These experts can speak
-										the language of both the "wellness-chic and the development-geek". This fosters effective
-										communication, wellness client loyatly to their development firm, healthy communication
-										and
-										ultimately happy clients with healthy profits.
-									</blockquote>
-								</aside>
+									<blockquote>
+							<p>Web developers with backgrounds as wellness experts can speak
+								the language of both the "wellness-chic and the development-geek". </p>
+							<p>This fosters effective
+								communication, client loyalty, healthy communication and,
+								ultimately, happy clients with healthy profits.  - Chrystal Copeland</p>
+							</blockquote>
+							</aside>
 							</p>
 						</div>
 					</div>
@@ -166,8 +167,9 @@
 						</div>
 						<div class="col-sm-9">
 							<p class="lead">Chrystal Copeland has been part of the health and wellness field for over 10 years.
-							She has been an active wellness advocate, massage therapist, and activist to inspire and encourage
-							healthy lifestyle choices in the lives of her clients and the lives of those around her.
+								She has been an active wellness advocate and massage therapist. She strives to inspire and
+								encourage
+								healthy lifestyle choices in the lives of her clients and the lives of those around her.
 							</p>
 
 							<p>She was the founder and owner of Tree of Life Massage and Wellness in Albuquerque, New Mexico.
@@ -189,7 +191,7 @@
 								other languages ******** add additional details of the program here.
 							</p>
 							<p>
-								Chrystal's greatest takeway from the Bootcamp was the great satisfaction she recieved from
+								Chrystal's greatest take away from the Bootcamp was the great satisfaction she recieved from
 								working in a team. After being a solo entrepreneur for a decade, she found working in a team
 								environment incredibly rewarding. Together, the team was able to accomplish a large task in a
 								short amount of time. Each team member brought stregths to the team, making the group as a
@@ -248,8 +250,7 @@
 								<div class="card-body">
 									<h5 class="card-title">Youth Jazz Collborative</h5>
 									<p class="card-text">Rebranding and new website for small non-profit in New Mexico
-										using
-										Squarespace.</p>
+										using Squarespace.</p>
 								</div>
 							</div>
 						</div>
