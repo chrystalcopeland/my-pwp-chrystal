@@ -60,6 +60,22 @@ Font
 	float: left;
 	width: 550px;
 }
+.pquote {
+	float: left;
+	width: 500px;
+	background:url("../images/watercolor-quote.png") left no-repeat;
+	color: gray();
+	font-size: 26px;
+	line-height: 0.9;
+	font-style: italic;
+	padding: 13px;
+}
+
+blockquote {
+	margin: 0;
+}
+
+
 /**********
 About
 *************/

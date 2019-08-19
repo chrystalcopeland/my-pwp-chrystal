@@ -118,10 +118,13 @@
 						<div class="col">
 							<p>
 								The health and wellness industry is currently worth an estimated $4.2 Trillion with growth twice
-								as fast as the global economy. The wellness economy is driven by holistic lifestyles that
-								incorporate activities like yoga, massage therapy, acupuncture, chiropractic, fitness and
-								nutrition. It also includes a broader spectrum of services, products and travel such as wellness
-								real-estate, beauty and anti-aging products, destination wellness retreats, and workplace
+								as fast as the global economy. The wellness economy is driven by people who embrace holistic
+								lifestyle choices and
+								include activities like yoga, massage therapy, acupuncture, chiropractic, fitness and
+								nutrition into their lifestyles. It also includes a broader spectrum of services, products and
+								travel such as wellness
+								real-estate, beauty and anti-aging products, destination wellness retreats, travel, and
+								workplace
 								wellness.
 							</p>
 							<div id="floated">
@@ -137,14 +140,63 @@
 							</p>
 							<p>
 								Additionally, with a worth of $4.2 trillion dollars, the wellness industry is proving to be a
-								market worth targeting for marketing and web development professionals. The addition of health
-								and wellness experts who are also tech savy can speak the language of both the "wellness chic
-								and the development geek" easily navigating both worlds to lead effective
-								communication and happy clients with happy profits.
+								market worth targeting. For marketing and web development companies this means adding
+								health and wellness experts to development teams who are also tech savy.
+								<aside class="pquote">
+									<blockquote>These experts can speak
+										the language of both the "wellness-chic and the development-geek". This fosters effective
+										communication, wellness client loyatly to their development firm, healthy communication
+										and
+										ultimately happy clients with healthy profits.
+									</blockquote>
+								</aside>
 							</p>
 						</div>
 					</div>
 				</div>
+			</section>
+			<!--About Section-->
+			<section class="py-5">
+				<div class="container" id="about">
+					<h2>About</h2>
+					<div class="row">
+						<div class="col-sm-3">
+							<img class="img-fluid d-block mx-auto"
+								  src="images/chrystal-copeland-headshot.jpg" alt="Chrystal Copeland">
+						</div>
+						<div class="col-sm-9">
+							<p class="lead">Chrystal Copeland has been part of the health and wellness field for over 10 years.
+							She has been an active wellness advocate, massage therapist, and activist to inspire and encourage
+							healthy lifestyle choices in the lives of her clients and the lives of those around her.
+							</p>
+
+							<p>She was the founder and owner of Tree of Life Massage and Wellness in Albuquerque, New Mexico.
+								She began creating websites for her own business, which led to creating and consulting on
+								websites for other wellness businesses in the area. She began learning wordpress and created
+								ABQpregnancy.com, a resource directory listing for expecting families in Albuquerque, New
+								Mexico. She also volunteerd to create websites for her son's boy scout troop and re-vamped the
+								brand and website for a local non-profit foundation, The Youth Jazz Collaborative of New
+								Mexico.</p>
+							<p>
+								Realizing that common thread in all her business ideas and non-profit ventures was creating
+								websites,
+								Chrystal decided to take the leap, or dive so to speak, to learn more about web development.
+								She enrolled in CNM's Deep Dive Coding Bootcamp in 2019.
+							<p>
+								During her time in the bootcamp, Chrystal has been part of the ABQ Bike Trails team. The group
+								developed a website and app to highlight safe trails that are bike friendly in Albuquerque.
+								The team developed the website using PHP in PhpStorm, a MySQL database, CSS, Javascript, and
+								other languages ******** add additional details of the program here.
+							</p>
+							<p>
+								Chrystal's greatest takeway from the Bootcamp was the great satisfaction she recieved from
+								working in a team. After being a solo entrepreneur for a decade, she found working in a team
+								environment incredibly rewarding. Together, the team was able to accomplish a large task in a
+								short amount of time. Each team member brought stregths to the team, making the group as a
+								whole stronger than the individual.
+							</p>
+						</div>
+					</div>
 			</section>
 			<!-- portfolio images -->
 			<!-- ABQ Bikes -->
@@ -204,28 +256,6 @@
 					</div>
 				</div>
 			</section>
-			<!--About Section-->
-			<section class="py-5">
-				<div class="container" id="about">
-					<h2>About</h2>
-					<div class="row">
-						<div class="col-sm-3">
-							<img class="img-fluid d-block mx-auto"
-								  src="images/chrystal-copeland-headshot.jpg" alt="Chrystal Copeland">
-						</div>
-						<div class="col-sm-9">
-							<p class="lead">Cupcake ipsum dolor. Sit amet marshmallow topping cheesecake muffin.
-								Halvah
-								croissant
-								candy canes bonbon candy. Apple pie jelly beans topping carrot cake danish tart cake
-								cheesecake.
-								Muffin danish chocolate soufflé pastry icing bonbon oat cake.
-								Powder cake jujubes oat cake. Lemon drops tootsie roll marshmallow halvah carrot cake.
-						</div>
-					</div>
-				</div>
-			</section>
-			</div>
 			<!-- Contact Form Container -->
 			<section class="container-fluid backgroundimg">
 				<div class="container" id="contact-section">
