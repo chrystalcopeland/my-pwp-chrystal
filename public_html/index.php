@@ -1,13 +1,11 @@
 <!doctype html>
 <html lang="en">
 	<head>
-		<!-- Required meta tags -->
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 		<!-- JQuery Library -->
-		<script src="https://code.jquery.com/jquery-3.4.1.min.js"
-				  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+		<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
@@ -17,14 +15,10 @@
 		<link href="https://fonts.googleapis.com/css?family=Sacramento&display=swap" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Roboto:300&display=swap" rel="stylesheet">
 
-		<!-- FontAwesome -->
-		<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+		<!-- Custom CSS -->
+		<link rel="stylesheet" href="css/style.css" type="text/css">
 
-		<!-- Optional JavaScript -->
 		<!-- jQuery first, then Popper.js, then Bootstrap JS -->
-		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-				  integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-				  crossorigin="anonymous"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
 				  integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
 				  crossorigin="anonymous"></script>
@@ -46,10 +40,9 @@
 		<!-- Google reCAPTCHA -->
 		<script src='https://www.google.com/recaptcha/api.js'></script>
 
-		<!-- Custom CSS -->
-		<link rel="stylesheet" href="css/style.css" type="text/css">
 
 		<title>Chrystal Copeland</title>
+
 	</head>
 	<body>
 		<main>
@@ -146,7 +139,7 @@
 								the language of both the "wellness-chic and the development-geek". </p>
 							<p>This fosters effective
 								communication, client loyalty, healthy communication and,
-								ultimately, happy clients with healthy profits.  - Chrystal Copeland</p>
+								ultimately, happy clients with healthy profits. - Chrystal Copeland</p>
 							</blockquote>
 							</aside>
 							</p>
@@ -272,7 +265,7 @@
 																<i class="fa fa-user" aria-hidden="true"></i>
 															</span>
 											</div>
-											<input type="text" class="form-control" id="name" name="name"
+											<input type="text" class="form-control" id="contactDemoName" name="contactDemoName"
 													 placeholder="Name">
 										</div>
 									</div>
@@ -284,7 +277,7 @@
 																<i class="fa fa-envelope" aria-hidden="true"></i>
 															</span>
 											</div>
-											<input type="email" class="form-control" id="email" name="email"
+											<input type="email" class="form-control" id="contactDemoEmail" name="contactDemoEmail"
 													 placeholder="Email">
 										</div>
 									</div>
@@ -296,7 +289,7 @@
 													<i class="fa fa-pencil" aria-hidden="true"></i>
 												</div>
 											</div>
-											<input type="text" class="form-control" id="subject" name="subject"
+											<input type="text" class="form-control" id="contactDemoSubject" name="contactDemoSubject"
 													 placeholder="Subject">
 										</div>
 									</div>
@@ -308,7 +301,7 @@
 													<i class="fa fa-comment" aria-hidden="true"></i>
 												</div>
 											</div>
-											<textarea class="form-control" rows="5" id="message" name="message"
+											<textarea class="form-control" rows="5" id="contactDemoMessage" name="contactDemoMessage"
 														 placeholder="Message (2000 characters max)"></textarea>
 										</div>
 									</div>
@@ -326,25 +319,28 @@
 								<div class="col-xs-12">
 									<div id="output-area"></div>
 								</div>
-
 						</section>
-						<!--Bootstrap sticky footer-->
-						<footer>
-							<div class="container-fluid">
-								<div class="sticky-footer text-center text-white bg-dark pt-2 pb-0 m-0 fixed-bottom">
-									<p>
-										<a href="https://github.com/chrystalcopeland/" target="_blank"><i
-												class="fab fa-github fa-2x"></i></a>
-										<a href="https://www.linkedin.com/in/copelandchrystal/" target="_blank"><i
-												class="fab fa-linkedin fa-2x"></i></a>
-										<a href="https://twitter.com/chryscopeland/" target="_blank"><i
-												class="fab fa-twitter fa-2x"></i></a>
-										<br>
-										Chrystal Copeland ©2019
-									</p>
-								</div>
-							</div>
-						</footer>
+					</div>
+				</div>
+			</section>
+
+			<!--Bootstrap sticky footer-->
+			<footer class="sticky-footer text-center text-white bg-dark pt-2 pb-0 fixed-bottom">
+				<div class="container-fluid">
+					<div>
+						<p>
+							<a href="https://github.com/chrystalcopeland/" target="_blank"><i
+									class="fab fa-github fa-2x"></i></a>
+							<a href="https://www.linkedin.com/in/copelandchrystal/" target="_blank"><i
+									class="fab fa-linkedin fa-2x"></i></a>
+							<a href="https://twitter.com/chryscopeland/" target="_blank"><i
+									class="fab fa-twitter fa-2x"></i></a>
+							<br>
+							Chrystal Copeland ©2019
+						</p>
+					</div>
+				</div>
+			</footer>
 		</main>
 
 	</body>

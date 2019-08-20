@@ -14,7 +14,7 @@ $(document).ready(function(){
 	 **/
 
 	/* begin validate function here */
-	$("#chrystal-contact-form").validate({
+	$("#chrystal-demo-form").validate({
 
 		// setup handling of form errors
 		debug: true,
@@ -25,18 +25,14 @@ $(document).ready(function(){
 		// rules here define what is good or bad input
 		// each rule starts with the form input element's NAME attribute
 		rules: {
-			name: {
+			contactDemoName: {
 				required: true
 			},
-			email: {
+			contactDemoEmail: {
 				email: true,
 				required: true
 			},
-
-			subject: {
-				subject: true,
-			},
-			message: {
+			contactDemoMessage: {
 				required: true,
 				maxlength: 2000
 			}
@@ -44,17 +40,14 @@ $(document).ready(function(){
 
 		// error messages to display to the end user when rules above don't pass
 		messages: {
-			name: {
+			contactDemoName: {
 				required: "Please enter your name."
 			},
-			email: {
+			contactDemoEmail: {
 				email: "Please enter a valid email address.",
 				required: "Please enter a valid email address."
 			},
-			subject: {
-				required: "Please enter a valid subject."
-			},
-			message: {
+			contactDemoMessage: {
 				required: "Please enter a message.",
 				maxlength: "2000 characters max."
 			}
