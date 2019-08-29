@@ -1,15 +1,25 @@
 body, html {
-	background-image: url("../images/pink-watercolor.png");
-	background-size: 1200px;
-	background-repeat: no-repeat;
-	background-position: top, center;
+	width: 100%;
+	height: 100%;
 	margin: 0;
 	padding: 0;
-	font-family: Roboto-thin, SansSerif;
+	overflow-x: hidden;
+	font-family: Roboto-thin, Sans-serif;
+}
+.backgroundimg {
+	background-image:url("../images/pink-watercolor.png");
+	background-size: cover;
+	background-position: top center;
+	background-repeat: no-repeat;
+	height: 110vh;
 }
 
+/************
+Font
+ ***********/
+
 h2 {
-	font-family: Sacramento;
+	font-family: Sacramento, cursive;
 	font-size: 40pt;
 	color: dimgrey;
 }
@@ -17,15 +27,19 @@ h2 {
 h5 {
 	font-size: 13pt;
 }
-/************
-Font
- ***********/
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
 #header {
 	color: white;
 	font-family: Sacramento, cursive;
 }
 #subtext {
-	font-family: Roboto-thin, SansSerif;
+	font-family: Roboto-thin, Sans-Serif;
 	font-size: 30px;
 }
 
@@ -33,54 +47,18 @@ Font
 	display: flex;
 	flex-direction: row;
 	justify-content: space-evenly;
+
 }
 
 
-@media only screen and (min-width: 970px) {
-	a.navbar-brand {
-		font-size: 4rem;
-	}
-}
+/***********************
+Wellness Section
+***********************/
 
-.backgroundimg {;
-	background-size: cover;
-	background-position: center;
-	background-repeat: no-repeat;
-}
-
-#wellness-businesses {
-	font-size: 40px;
-	margin-right: 60px;
-	margin-top: 200px;
-}
-#wellness {
-	margin-top:;
-}
 #floated {
 	float: left;
 	width: 550px;
 }
-.pquote {
-	float: left;
-	width: 500px;
-	background:url("../images/watercolor-quote.png") left no-repeat;
-	color: gray();
-	font-size: 26px;
-	line-height: 0.9;
-	font-style: italic;
-	padding: 13px;
-}
-
-blockquote {
-	margin: 0;
-}
-
-
-/**********
-About
-*************/
-
-
 
 /*********
 Portfolio
@@ -90,8 +68,7 @@ Portfolio
 Contact
 ************/
 #contact-section {
-	background-image: url("../images/flip-watercolor-opaque.jpg");
-	background-size: 1200px;
+	background-size: auto;
 	color: white;
 }
 #contact-chrystal {
