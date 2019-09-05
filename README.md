@@ -27,3 +27,18 @@ Edits & Suggestions:
 You forgot the the DOCTYPE & HTML boilerplate code that is generally required for all files that use HTML.
 
 Your milestone 2a passes at a Tier III
+
+## Milestone 3 and Final Feedback
+
+The layout is clean and simple.
+The contact form validation and email work.
+
+There are some HTML errors to fix:
+https://validator.w3.org/nu/?doc=https%3A%2F%2Fbootcamp-coders.cnm.edu%2F~canderson73%2Fmy-pwp-chrystal%2Fpublic_html%2Findex.php
+
+For the most part your site is mobile responsive. The "Global Wellness Economy" image runs off the screen in mobile.
+
+Overall you did a great job!
+
+Milestone 3 Grade Tier 3
+Final Grade Tier 3
